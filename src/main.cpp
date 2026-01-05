@@ -8,7 +8,7 @@
 #include "CSVWriter.hpp"
 
 
-CSVWriter writer("/mnt/d/Source_Code/Binance_Project/src/Files");
+CSVWriter writer("/mnt/d/Source_Code/tmp/BinanceClient/src/Files");
 struct Trade {
     double price = 0;
     double quantity = 0;
