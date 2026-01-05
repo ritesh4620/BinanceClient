@@ -1,0 +1,3 @@
+/mnt/d/Source_Code/Binance_Project/src/build/CMakeFiles/BinanceClient.dir
+/mnt/d/Source_Code/Binance_Project/src/build/CMakeFiles/edit_cache.dir
+/mnt/d/Source_Code/Binance_Project/src/build/CMakeFiles/rebuild_cache.dir
